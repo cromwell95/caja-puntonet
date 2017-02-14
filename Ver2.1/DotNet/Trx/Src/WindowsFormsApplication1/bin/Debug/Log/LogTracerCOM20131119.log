@@ -1,0 +1,143 @@
+10:43:17.2529236	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=19200 iBits=8 TimeOut=30000
+10:43:17.5299394	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH564E3ABAF8C28505
+10:43:18.6420030	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHA5CE550A699A58DAd
+10:43:22.8482436	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID28052013131409
+10:43:23.8743023	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+10:43:23.8793026	DEBUG : InicioDia trama =ID31082013131409
+10:43:23.8833028	DEBUG : InicioDia trama inicio de dia lectura evaluo si la trama de respuesta es correcta calculo el LRC=
+
+10:43:23.8893032	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+10:43:23.8923033	DEBUG : InicioDia se envia ACK =
+10:43:25.8974180	DEBUG : InicioDia 1er registro correcto envio trama ID00
+10:43:26.9024755	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+10:43:27.9075330	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID0000AUTORIZADO
+
+10:43:27.9135333	DEBUG : InicioDia trama inicio de dia  ID00 lectura evaluo si la trama de respuesta es correcta trama=ID0000AUTORIZADO calculo el LRC=
+
+11:45:48.3784757	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=19200 iBits=8 TimeOut=30000
+11:45:48.3864761	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH25F0B1AB61BD5381
+11:45:49.3895335	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH439605520B5553FBb
+11:45:49.4135349	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID28052013
+11:45:50.4175923	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+11:45:50.4215925	DEBUG : InicioDia trama =ID31082013131409
+11:45:50.4265928	DEBUG : InicioDia trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409
+ calculo el LRC=
+
+11:45:50.4475940	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+11:45:50.4505942	DEBUG : InicioDia se envia ACK =
+11:45:52.4537088	DEBUG : InicioDia 1er registro correcto envio trama ID00
+11:45:53.4597663	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+11:45:54.4658239	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID0000AUTORIZADO
+
+11:45:54.4688240	DEBUG : InicioDia trama inicio de dia  ID00 lectura evaluo si la trama de respuesta es correcta trama=ID0000AUTORIZADO
+ calculo el LRC=
+
+11:45:54.4748244	DEBUG : InicioDia LRC no corresponde a la trama ID00 de Resp.=ID0000AUTORIZADO
+
+11:54:06.1379459	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=19200 iBits=8 TimeOut=30000
+11:54:06.1469464	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH81B4C8C66E205A2A
+11:54:07.1510038	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=ID0000AUTORIZADO
+SHEC1B8327AC6ED80E
+11:54:07.1680048	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID28052013
+11:54:08.1710622	DEBUG : 1 ST=1
+11:54:08.1790626	DEBUG : 2 ET=18
+11:54:08.1860630	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+11:54:08.1940635	DEBUG : 3 InicioDia leo trama =ID31082013131409
+11:54:08.2010639	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+11:54:08.2110645	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+11:54:08.2160648	DEBUG : InicioDia se envia ACK =
+11:54:10.2201794	DEBUG : InicioDia 1er registro correcto envio trama ID00
+11:54:11.2292371	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+11:54:12.2382948	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID0000AUTORIZADO
+
+11:54:12.2452952	DEBUG : 5 ST=1
+11:54:12.2522956	DEBUG : 6 ET=18
+11:54:12.2602961	DEBUG : 7 InicioDia leo trama =ID0000AUTORIZADO
+11:54:12.2672965	DEBUG : 8 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID0000AUTORIZADO calculo el LRC=
+
+12:21:24.7646700	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=19200 iBits=8 TimeOut=30000
+12:21:24.7716704	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH6200E42C412EBD21k
+12:21:25.7767279	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH7F653CA652AEA585
+12:21:25.8047295	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID123456	
+12:21:26.8137872	DEBUG : 1 ST=1
+12:21:26.8187875	DEBUG : 2 ET=18
+12:21:26.8257879	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+12:21:26.8317882	DEBUG : 3 InicioDia leo trama =ID31082013131409
+12:21:26.8387886	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+12:21:26.8447890	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+12:21:26.8477891	DEBUG : InicioDia se envia ACK =
+12:21:28.8549039	DEBUG : InicioDia 1er registro correcto envio trama ID00
+12:21:29.8679619	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+12:21:30.8740194	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID0000AUTORIZADO
+
+12:21:30.8800198	DEBUG : 5 ST1=1
+12:21:30.8860201	DEBUG : 6 ET1=18
+12:21:30.8930205	DEBUG : 7 InicioDia leo trama =ID0000AUTORIZADO
+12:21:30.8980208	DEBUG : 8 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID0000AUTORIZADO calculo el LRC=
+
+12:33:53.8095129	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=19200 iBits=8 TimeOut=30000
+12:33:53.8185134	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SHA52B1EE927DA9226
+12:33:54.8215708	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHACF7E6E5EB66653B
+12:33:54.8455722	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID123456	
+12:33:55.8496296	DEBUG : 1 ST=1
+12:33:55.8556299	DEBUG : 2 ET=18
+12:33:55.8606302	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+12:33:55.8656305	DEBUG : 3 InicioDia leo trama =ID31082013131409
+12:33:55.8696307	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+12:33:55.8736310	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+12:33:55.8776312	DEBUG : InicioDia se envia ACK =
+12:33:57.8827459	DEBUG : InicioDia 1er registro correcto envio trama ID00
+12:33:58.8888034	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+12:33:59.8978611	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID0000AUTORIZADO
+
+12:33:59.9028614	DEBUG : 5 ST1=1
+12:33:59.9108619	DEBUG : 6 ET1=18
+12:33:59.9188623	DEBUG : 7 InicioDia leo trama =ID0000AUTORIZADO
+
+12:33:59.9258627	DEBUG : 8 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID0000AUTORIZADO
+ calculo el LRC=
+
+12:33:59.9328631	DEBUG : InicioDia LRC no corresponde a la trama ID00 de Resp.=ID0000AUTORIZADO
+
+16:45:53.8773313	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=19200 iBits=8 TimeOut=30000
+16:45:54.2623533	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH291BB71A256BBEB5f
+16:45:55.2654107	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:45:56.2714683	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:45:57.2815260	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:45:58.2885836	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:45:59.2956412	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:00.3016988	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:01.3077563	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:02.3148139	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:03.3208715	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:04.3279291	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:05.3349867	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:06.3420443	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:07.3481018	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:08.3501591	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:09.3562167	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:10.3652744	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:11.3723320	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:12.3793896	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:13.3854471	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:14.3935048	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:15.3995623	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:16.4066199	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:17.4126775	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:18.4197351	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:19.4257926	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:20.4278499	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:21.4309073	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:22.4329646	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:23.4360220	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:24.4390793	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:25.4411367	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=
+16:46:25.4491371	DEBUG : SendPinpad Salgo por timeout= 30 seg

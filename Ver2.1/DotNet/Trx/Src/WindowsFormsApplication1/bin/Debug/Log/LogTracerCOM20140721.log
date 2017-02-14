@@ -1,0 +1,4 @@
+17:32:17.6728515	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+17:32:17.7041015	ERROR : Exception: El puerto 'COM9' no existe.
+17:32:18.7353515	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+17:32:18.7353515	ERROR : Exception: El puerto 'COM9' no existe.

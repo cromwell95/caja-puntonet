@@ -1,0 +1,205 @@
+16:14:54.2838984	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=1 iBaudios=115200 iBits=8 TimeOut=30000
+16:14:54.3151484	ERROR : Exception: El puerto 'COM1' no existe.
+16:16:09.4176875	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=1 iBaudios=115200 iBits=8 TimeOut=30000
+16:16:09.4333125	ERROR : Exception: El puerto 'COM1' no existe.
+16:17:56.2868281	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=1 iBaudios=115200 iBits=8 TimeOut=30000
+16:17:56.3493281	ERROR : Exception: El puerto 'COM1' no existe.
+16:17:57.8493281	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=1 iBaudios=115200 iBits=8 TimeOut=30000
+16:17:57.8493281	ERROR : Exception: El puerto 'COM1' no existe.
+16:17:58.4899531	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=1 iBaudios=115200 iBits=8 TimeOut=30000
+16:17:58.5055781	ERROR : Exception: El puerto 'COM1' no existe.
+16:19:42.2497187	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=1 iBaudios=115200 iBits=8 TimeOut=30000
+16:19:42.2653437	ERROR : Exception: El puerto 'COM1' no existe.
+16:21:28.6715937	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:21:29.7340937	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHD185E94289D76068`
+16:21:29.7340937	DEBUG : Se envia trama al puerto COM9 Trama=LT
+16:21:30.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:31.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:32.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:33.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:34.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:35.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:36.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:37.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:38.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:39.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:40.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:41.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:42.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:43.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:44.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:45.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:46.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:21:47.7340937	DEBUG : Leo la respuesta enviada por el pinpad Resp.=LT2000                                                                     ERROR EN TARJETA    7
+16:21:47.7340937	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=7
+16:21:47.7340937	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=LT2000                                                                     ERROR EN TARJETA    7
+16:21:47.7497187	DEBUG : Se envia respuesta a la caja respuesta=LT2000                                                                     ERROR EN TARJETA    
+16:25:05.6842890	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:25:06.7624140	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH57B4135DFCCC2B9A
+16:25:06.7624140	DEBUG : Se envia trama al puerto COM9 Trama=PP01200     000000000980000000000000000000000980000000000000                                          08363520160314      000000001538   DP001001                                   
+16:25:07.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:08.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:09.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:10.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:11.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:12.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:13.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:14.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:15.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:16.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:17.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:18.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:19.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:25:20.7624140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=PP200200ERROR EN TARJETA                                                                                                                                                                                                                                                                                                                                                                                                                                                                   -
+16:25:20.7624140	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=-
+16:25:20.7624140	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=PP200200ERROR EN TARJETA                                                                                                                                                                                                                                                                                                                                                                                                                                                                   -
+16:25:20.7780390	DEBUG : Se envia respuesta a la caja respuesta=PP200200ERROR EN TARJETA                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+16:33:26.4342890	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:33:27.4967890	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHA69F3C31AE475C3Bb
+16:33:27.5124140	DEBUG : Se envia trama al puerto COM9 Trama=PP01200     000000000980000000000000000000000980000000000000                                          08363520160314      000000001538   DP001001                                   
+16:33:28.5124140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:29.5124140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:30.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:31.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:32.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:33.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:34.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:35.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:36.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:37.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:38.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:33:39.5749140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=PP200200ERROR EN TARJETA                                                                                                                                                                                                                                                                                                                                                                                                                                                                   -
+16:33:39.5749140	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=-
+16:33:39.5749140	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=PP200200ERROR EN TARJETA                                                                                                                                                                                                                                                                                                                                                                                                                                                                   -
+16:33:39.5749140	DEBUG : Se envia respuesta a la caja respuesta=PP200200ERROR EN TARJETA                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+16:34:47.6842890	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:34:48.7311640	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH07CAC42DB154DF31n
+16:34:48.7311640	DEBUG : Se envia trama al puerto COM9 Trama=LT                   
+16:34:49.7311640	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:34:50.7311640	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:34:51.7311640	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:34:52.7311640	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:34:53.7311640	DEBUG : Leo la respuesta enviada por el pinpad Resp.=XX0100ERROR EN TRAMA      
+16:34:53.7311640	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=
+16:34:53.7311640	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=XX0100ERROR EN TRAMA      
+16:34:53.7467890	DEBUG : Se envia respuesta a la caja respuesta=XX0100ERROR EN TRAMA      
+16:35:02.3249140	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:35:03.3717890	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH963911EDAD3690F1b
+16:35:03.3717890	DEBUG : Se envia trama al puerto COM9 Trama=LT
+16:35:04.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:05.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:06.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:07.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:08.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:09.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:10.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:11.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:12.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:13.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:14.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:15.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:16.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:17.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:18.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:19.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:20.3717890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=LT2000                                                                     ERROR EN TARJETA    7
+16:35:20.3717890	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=7
+16:35:20.3717890	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=LT2000                                                                     ERROR EN TARJETA    7
+16:35:20.3717890	DEBUG : Se envia respuesta a la caja respuesta=LT2000                                                                     ERROR EN TARJETA    
+16:35:24.3874140	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:35:25.4342890	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH8DAE38AA9B27A1DEd
+16:35:25.4499140	DEBUG : Se envia trama al puerto COM9 Trama=CT
+16:35:26.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:27.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:28.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:29.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:30.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:31.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:32.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:33.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:34.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:35.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:35:36.4499140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=CT20                                                  ERROR EN TARJETA    
+16:35:36.4499140	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=
+16:35:36.4499140	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=CT20                                                  ERROR EN TARJETA    
+16:35:36.4655390	DEBUG : Se envia respuesta a la caja respuesta=CT20                                                  ERROR EN TARJETA    
+16:36:13.3561640	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:36:14.3874140	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHEF6E9C53F7F7D710f
+16:36:14.3874140	DEBUG : Se envia trama al puerto COM9 Trama=LT
+16:36:15.3874140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:16.3874140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:17.3874140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:18.3874140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:19.3874140	DEBUG : Leo la respuesta enviada por el pinpad Resp.=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          1
+16:36:19.3874140	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=1
+16:36:19.3874140	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          1
+16:36:19.4030390	DEBUG : Se envia respuesta a la caja respuesta=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          
+16:36:27.1061640	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:36:28.1530390	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH68619F37CF0D59C1e
+16:36:28.1530390	DEBUG : Se envia trama al puerto COM9 Trama=CT
+16:36:29.1530390	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:30.1530390	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:31.1530390	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:32.1530390	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:33.1686640	DEBUG : Leo la respuesta enviada por el pinpad Resp.=CT00114F499557D39D131938ED095A30326DE485BC874427802212CONSULTA OK         
+16:36:33.1686640	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=
+16:36:33.1686640	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=CT00114F499557D39D131938ED095A30326DE485BC874427802212CONSULTA OK         
+16:36:33.1686640	DEBUG : Se envia respuesta a la caja respuesta=CT00114F499557D39D131938ED095A30326DE485BC874427802212CONSULTA OK         
+16:36:39.4811640	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:36:40.5436640	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHA0909B4FCFF822ED
+16:36:40.5592890	DEBUG : Se envia trama al puerto COM9 Trama=PP01200     000000000980000000000000000000000980000000000000                                          08363520160314      000000001538   DP001001                                   
+16:36:41.5592890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:42.5592890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:43.5592890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:44.5592890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:45.5592890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:46.5592890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:36:47.5592890	DEBUG : Leo la respuesta enviada por el pinpad Resp.=PP200200NO HUBO TRANSMISION                                                                                                                                                                                                                                                                                                                                                                                                                                                                W
+16:36:47.5592890	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=W
+16:36:47.5592890	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=PP200200NO HUBO TRANSMISION                                                                                                                                                                                                                                                                                                                                                                                                                                                                W
+16:36:47.5749140	DEBUG : Se envia respuesta a la caja respuesta=PP200200NO HUBO TRANSMISION                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+16:54:49.0661250	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:54:50.1130000	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHD9E03251DE66394Eo
+16:54:50.1130000	DEBUG : Se envia trama al puerto COM9 Trama=LT
+16:54:51.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:54:52.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:54:53.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:54:54.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:54:55.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:54:56.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:54:57.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:54:58.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:54:59.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:55:00.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:55:01.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+16:55:02.1130000	DEBUG : Leo la respuesta enviada por el pinpad Resp.=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          1
+16:55:02.1130000	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=1
+16:55:02.1130000	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          1
+16:55:02.1130000	DEBUG : Se envia respuesta a la caja respuesta=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          
+17:41:26.3574218	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+17:41:27.4042968	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH5FE9E00C71AAD8C6
+17:41:27.4042968	DEBUG : Se envia trama al puerto COM9 Trama=LT
+17:41:28.4042968	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+17:41:29.4042968	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+17:41:30.4042968	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+17:41:31.4042968	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+17:41:32.4042968	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+17:41:33.4042968	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+17:41:34.4042968	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+17:41:35.4042968	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+17:41:36.4042968	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+17:41:37.4199218	DEBUG : Leo la respuesta enviada por el pinpad Resp.=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          1
+17:41:37.4199218	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=1
+17:41:37.4199218	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          1
+17:41:37.4199218	DEBUG : Se envia respuesta a la caja respuesta=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          
+18:18:55.6250000	DEBUG : Cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+18:18:56.7031250	DEBUG : Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH7FF8EA86BB440121
+18:18:56.7031250	DEBUG : Se envia trama al puerto COM9 Trama=LT
+18:18:57.7031250	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+18:18:58.7031250	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+18:18:59.7031250	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+18:19:00.7031250	DEBUG : Leo la respuesta enviada por el pinpad Resp.=
+18:19:01.7031250	DEBUG : Leo la respuesta enviada por el pinpad Resp.=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          1
+18:19:01.7031250	DEBUG : Evaluo si la trama de respuesta es correcta calculo el LRC=1
+18:19:01.7031250	DEBUG : LRC de respuesta es correcto envio ACK y salgo del ciclo respuesta=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          1
+18:19:01.7343750	DEBUG : Se envia respuesta a la caja respuesta=LT0000442780XXXXXXXXX3337      2212114F499557D39D131938ED095A30326DE485BC87LECTURA OK          

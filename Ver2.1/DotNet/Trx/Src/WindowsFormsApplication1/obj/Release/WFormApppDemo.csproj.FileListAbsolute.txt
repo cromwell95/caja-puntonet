@@ -1,0 +1,94 @@
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe.config
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.pdb
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Release\UC-CAJA.dll
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Release\log4net.dll
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Release\es\UC-CAJA.resources.dll
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.Properties.Resources.resources
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Release\WFormApppDemo.csproj.GenerateResource.Cache
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.exe
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.pdb
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe.config
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.exe
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.pdb
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.pdb
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\bin\Release\UC-CAJA.dll
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\bin\Release\log4net.dll
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\bin\Release\es\UC-CAJA.resources.dll
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.Properties.Resources.resources
+D:\TRABAJO\DESARROLLO\UCENGINEPCI\UC-ENGINE PCI v 1_00\COMPONENTE ISO8583\Trx\Src\WindowsFormsApplication1\obj\Release\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\UC-CAJA-NEW.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.FrmAnulacion.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.FrmVoucher.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe.config
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.exe
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.pdb
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.exe
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\AppDemo.pdb
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\UC-CAJA.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\log4net.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Release\es\UC-CAJA.resources.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.FrmAnulacion.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.FrmVoucher.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\AppDemo.Properties.Resources.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Release\WFormApppDemo.csproj.GenerateResource.Cache

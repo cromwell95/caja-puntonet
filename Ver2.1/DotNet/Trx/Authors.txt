@@ -1,0 +1,7 @@
+This list contains the name of the authors and code
+contributors of Trx Framework
+
+Developers
+
+Diego Zabaleta (dzabaleta@uruware.com)
+Leonardo Zabaleta (lzabaleta@uruware.com)

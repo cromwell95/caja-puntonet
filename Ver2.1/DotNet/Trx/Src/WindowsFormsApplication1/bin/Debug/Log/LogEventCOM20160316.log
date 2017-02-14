@@ -1,0 +1,24 @@
+16:21:28.7340937	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH03B7ACB33C3247FDm
+16:21:29.7340937	DEBUG : Se envia trama al puerto COM9 Trama=LT
+16:25:05.6999140	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SHEE24934706D32645c
+16:25:06.7624140	DEBUG : Se envia trama al puerto COM9 Trama=PP01200     000000000980000000000000000000000980000000000000                                          08363520160314      000000001538   DP001001                                   
+16:33:26.4655390	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SHF1980DE71B43DD30
+16:33:27.5124140	DEBUG : Se envia trama al puerto COM9 Trama=PP01200     000000000980000000000000000000000980000000000000                                          08363520160314      000000001538   DP001001                                   
+16:34:47.6999140	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH831F54947AB15A04
+16:34:48.7311640	DEBUG : Se envia trama al puerto COM9 Trama=LT                   
+16:35:02.3405390	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SHD91D930F562D48C8n
+16:35:03.3717890	DEBUG : Se envia trama al puerto COM9 Trama=LT
+16:35:24.4030390	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH109FF1DD9A0652FFh
+16:35:25.4499140	DEBUG : Se envia trama al puerto COM9 Trama=CT
+16:36:13.3717890	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH76E5D30837D9DBD5
+16:36:14.3874140	DEBUG : Se envia trama al puerto COM9 Trama=LT
+16:36:27.1061640	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH0800FA5962D915D3
+16:36:28.1530390	DEBUG : Se envia trama al puerto COM9 Trama=CT
+16:36:39.4967890	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH7987EF6CF4DCBCAF
+16:36:40.5592890	DEBUG : Se envia trama al puerto COM9 Trama=PP01200     000000000980000000000000000000000980000000000000                                          08363520160314      000000001538   DP001001                                   
+16:54:49.0817500	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH0AC3451121D4678E
+16:54:50.1130000	DEBUG : Se envia trama al puerto COM9 Trama=LT
+17:41:26.4042968	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH650976CFFB02FBC7`
+17:41:27.4042968	DEBUG : Se envia trama al puerto COM9 Trama=LT
+18:18:55.6250000	DEBUG : Se envia trama de seguridad al puerto COM9 TramaSeguridad=SHFB01BD881FAC01A4
+18:18:56.7031250	DEBUG : Se envia trama al puerto COM9 Trama=LT

@@ -1,0 +1,166 @@
+16:43:53.9469059	DEBUG : Verificacion de archivo de bines ruta = C:\Users\farmijos\Desktop\Bines.txt
+16:43:53.9779076	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:43:54.0029091	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH13DE1A77B4944617
+16:43:55.0049664	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=ID31082013131409
+ID31082013131409
+SH111D7789350E4ABAi
+16:45:57.0839489	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID000012
+16:49:59.5628179	DEBUG : Verificacion de archivo de bines ruta = C:\Users\farmijos\Desktop\Bines.txt
+16:49:59.5748186	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+16:49:59.5798189	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH57980223CAEFC142m
+16:50:00.5818762	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH5D108080A92177C9i
+16:50:00.6088777	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID000012
+16:50:01.6109350	DEBUG : 1 ST=1
+16:50:01.6159353	DEBUG : 2 ET=18
+16:50:01.6219357	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+16:50:01.6269359	DEBUG : 3 InicioDia leo trama =ID31082013131409
+16:50:01.6319362	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+17:04:31.3676823	DEBUG : Verificacion de archivo de bines ruta = C:\Users\farmijos\Desktop\Bines.txt
+17:04:31.3896835	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+17:04:31.4026843	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SHD458F0EDDA1254F7d
+17:04:32.4057416	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=ID31082013131409
+ID31082013131409
+SH25E8FB66985274D9
+17:04:32.4467440	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID000012
+17:04:33.4498014	DEBUG : 1 ST=1
+17:04:33.4558017	DEBUG : 2 ET=18
+17:04:33.4618020	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+17:04:33.4678024	DEBUG : 3 InicioDia leo trama =ID31082013131409
+17:04:33.4738027	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+17:04:46.4645458	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+17:04:51.8238523	DEBUG : InicioDia se envia ACK =
+17:04:53.8579686	DEBUG : InicioDia 1er registro correcto envio trama ID00
+17:04:54.8890276	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID31082013131409
+ID31082013131409
+
+17:04:54.8950280	DEBUG : 5 ST1=0
+17:04:54.9010283	DEBUG : 6 ET1=17
+17:04:54.9070286	DEBUG : 7 InicioDia leo trama =ID31082013131409
+17:04:54.9140290	DEBUG : 8 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+17:12:31.5141451	DEBUG : Verificacion de archivo de bines ruta = C:\Users\farmijos\Desktop\Bines.txt
+17:12:31.5251457	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+17:12:31.5311461	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH469D738893EF8200`
+17:12:32.5352035	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHEFAAE2B3A44E638Bf
+17:12:32.5692054	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID000012
+17:12:33.5732629	DEBUG : 1 ST=1
+17:12:33.5802633	DEBUG : 2 ET=18
+17:12:33.5872637	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+17:12:33.5952641	DEBUG : 3 InicioDia leo trama =ID31082013131409
+17:12:33.6022645	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+17:12:35.2333578	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+17:12:35.2443584	DEBUG : InicioDia se envia ACK =
+17:12:37.2594737	DEBUG : InicioDia 1er registro correcto envio trama ID00
+17:12:38.2775319	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:12:38.2845323	DEBUG : 5 ST1=-1
+17:12:38.2905327	DEBUG : 6 ET1=-1
+17:12:39.2955902	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:12:40.3046479	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:12:41.3127055	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:12:42.3207632	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID0000AUTORIZADO          
+
+17:12:42.3317638	DEBUG : 5 ST1=0
+17:12:42.3387642	DEBUG : 6 ET1=27
+17:12:42.3467647	DEBUG : 7 InicioDia leo trama =ID0000AUTORIZADO          
+17:12:42.3547651	DEBUG : 8 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID0000AUTORIZADO           calculo el LRC=
+
+17:12:42.3627656	DEBUG : InicioDia LRC no corresponde a la trama ID00 de Resp.=ID0000AUTORIZADO          
+
+17:22:40.3639693	DEBUG : Verificacion de archivo de bines ruta = C:\Users\farmijos\Desktop\Bines.txt
+17:22:40.3759700	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+17:22:40.4009714	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH76E5D30837D9DBD5
+17:22:41.4040288	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHEF6E9C53F7F7D710f
+17:22:41.4760329	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID000012
+17:22:42.4830905	DEBUG : 1 ST=1
+17:22:42.4910910	DEBUG : 2 ET=18
+17:22:42.4980914	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+17:22:42.5050918	DEBUG : 3 InicioDia leo trama =ID31082013131409
+17:22:42.5120922	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+17:22:42.5170924	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+17:22:42.5210927	DEBUG : InicioDia se envia ACK =
+17:22:44.5252073	DEBUG : InicioDia 1er registro correcto envio trama ID00
+17:22:45.5292647	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:22:45.5402654	DEBUG : 5 ST1=-1
+17:22:45.5552662	DEBUG : 6 ET1=-1
+17:22:46.5633239	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:22:47.5733817	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:22:48.5824394	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:22:49.5944973	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID0000AUTORIZADO          
+
+17:22:49.6044978	DEBUG : 5 ST1=0
+17:22:49.6144984	DEBUG : 6 ET1=27
+17:22:49.6234989	DEBUG : 7 InicioDia leo trama =ID0000AUTORIZADO          
+17:22:49.6284992	DEBUG : 8 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID0000AUTORIZADO           calculo el LRC=
+
+17:22:49.6324994	DEBUG : InicioDia LRC no corresponde a la trama ID00 de Resp.=ID0000AUTORIZADO          
+
+17:25:36.1750251	DEBUG : Verificacion de archivo de bines ruta = C:\Users\farmijos\Desktop\Bines.txt
+17:25:36.1870258	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+17:25:36.1930261	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH90C012B5BD2D09D0
+17:25:37.2010838	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=ID0000AUTORIZADO          
+SHE686D29F7D7619CF
+17:25:37.2200849	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID000012
+17:25:38.2231423	DEBUG : 1 ST=1
+17:25:38.2311427	DEBUG : 2 ET=18
+17:25:38.2381431	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+17:25:38.2451435	DEBUG : 3 InicioDia leo trama =ID31082013131409
+17:25:38.2531440	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+17:25:38.2581443	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+17:25:38.2611444	DEBUG : InicioDia se envia ACK =
+17:25:40.2652591	DEBUG : InicioDia 1er registro correcto envio trama ID00
+17:25:41.2733167	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:25:41.2803171	DEBUG : 5 ST1=-1
+17:25:41.2883176	DEBUG : 6 ET1=-1
+17:25:42.3063758	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:25:43.3134334	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:25:44.3204910	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:25:45.3285487	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID0000AUTORIZADO          
+
+17:25:45.3365491	DEBUG : 5 ST1=0
+17:25:45.3425495	DEBUG : 6 ET1=27
+17:25:45.3485498	DEBUG : 7 InicioDia leo trama =ID0000AUTORIZADO          
+17:25:45.3555502	DEBUG : 8 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID0000AUTORIZADO           calculo el LRC=
+
+17:39:11.3846524	DEBUG : Verificacion de archivo de bines ruta = C:\Users\farmijos\Desktop\Bines.txt
+17:39:11.3956531	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=115200 iBits=8 TimeOut=30000
+17:39:11.4036535	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SHF46889392442F3E2m
+17:39:12.4087110	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=ID0000AUTORIZADO          
+ID0000AUTORIZADO          
+SH128F28AC79711CFC
+17:39:12.4767149	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID000012
+17:39:13.4807723	DEBUG : 1 ST=1
+17:39:13.4907729	DEBUG : 2 ET=18
+17:39:13.4987734	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+17:39:13.5057738	DEBUG : 3 InicioDia leo trama =ID31082013131409
+17:39:13.5097740	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+17:39:13.5137742	DEBUG : InicioDia comparo el 1er registro archivo=31082013131409pos=31082013131409
+17:39:13.5187745	DEBUG : InicioDia se envia ACK =
+17:39:15.5228891	DEBUG : InicioDia 1er registro correcto envio trama ID00
+17:39:16.5359471	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:39:16.5639487	DEBUG : 5 ST1=-1
+17:39:16.5679489	DEBUG : 6 ET1=-1
+17:39:17.5730064	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:39:18.5810640	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:39:19.5891217	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=
+17:39:20.5961793	DEBUG : InicioDia trama inicio leo respuesta de trama ID00=ID0000AUTORIZADO          
+
+17:39:20.6231809	DEBUG : 5 ST1=0
+17:39:20.6311813	DEBUG : 6 ET1=27
+17:39:20.6401818	DEBUG : 7 InicioDia leo trama =ID0000AUTORIZADO          
+17:39:20.6491823	DEBUG : 8 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID0000AUTORIZADO           calculo el LRC=
+
+17:39:20.6551827	DEBUG : 9 InicioDia pura resp.=ID0000AUTORIZADO          
+17:39:20.6611830	DEBUG : InicioDia LRC no corresponde a la trama ID00 de Resp.=ID0000AUTORIZADO          
+

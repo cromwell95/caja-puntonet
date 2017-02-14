@@ -1,0 +1,28 @@
+16:25:08.6085402	DEBUG : Verificacion de archivo de bines ruta = C:\Users\farmijos\Desktop\Bines.txt
+16:25:08.6295414	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=19200 iBits=8 TimeOut=30000
+16:25:08.6425421	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH9BDFE02F118299A7
+16:25:09.6636005	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SHA22534930C397A83e
+16:25:09.6826016	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID000012
+16:25:10.6866590	DEBUG : 1 ST=1
+16:25:10.6926594	DEBUG : 2 ET=18
+16:25:10.6976597	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+16:25:10.7026600	DEBUG : 3 InicioDia leo trama =ID31082013131409
+16:25:10.7096604	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+16:25:10.7156607	DEBUG : InicioDia LRC no corresponde a la trama de Resp.=ID31082013131409
+
+16:42:26.9659308	DEBUG : Verificacion de archivo de bines ruta = C:\Users\farmijos\Desktop\Bines.txt
+16:42:26.9729312	DEBUG : SendPinpad cargamos la configuracion para la libreria DriverVerifone32  Puerto=9 iBaudios=19200 iBits=8 TimeOut=30000
+16:42:26.9859320	DEBUG : SendPinpad Se envia trama de seguridad al puerto COM9 TramaSeguridad=SH6DE63F0DEF30E1C1
+16:42:27.9929896	DEBUG : SendPinpad Trama de Seguridad Leo la respuesta enviada por el pinpad Resp.=SH94EF05975DD1ADE1h
+16:42:28.0339919	DEBUG : InicioDia se envia trama de inicio de dia al puerto COM9 Trama inicio de dia=ID000012
+16:42:29.0410495	DEBUG : 1 ST=1
+16:42:29.0480499	DEBUG : 2 ET=18
+16:42:29.0500500	DEBUG : InicioDia trama inicio de dia leo la respuesta del pinpad=ID31082013131409
+
+16:42:29.0530502	DEBUG : 3 InicioDia leo trama =ID31082013131409
+16:42:29.0550503	DEBUG : 4 InicioDia leo trama inicio de dia lectura evaluo si la trama de respuesta es correcta trama=ID31082013131409 calculo el LRC=
+
+16:42:29.0580505	DEBUG : InicioDia LRC no corresponde a la trama de Resp.=ID31082013131409
+

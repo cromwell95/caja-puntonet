@@ -1,0 +1,84 @@
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\bin\Debug\UCCAJA.xml
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.resources
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.es.resources
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\obj\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\UCCAJA.xml
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.resources
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.es.resources
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\UCCAJA.xml
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.es.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\bin\Debug\UCCAJA.xml
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.es.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\obj\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\bin\Debug\UCCAJA.xml
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.es.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\obj\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\bin\Debug\UCCAJA.xml
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\obj\Debug\UCCAJA.SR.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\obj\Debug\UCCAJA.SR.es.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\obj\Debug\UC-CAJA.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\obj\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\obj\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\Framework\obj\Debug\UC-CAJA.pdb
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.pdb
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\UCCAJA.xml
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\log4net.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.es.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.csproj.GenerateResource.Cache
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\es\UC-CAJA.resources.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.pdb

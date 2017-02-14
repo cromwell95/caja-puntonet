@@ -1,0 +1,11 @@
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\bin\Debug\Trx.Tests.dll
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\bin\Debug\Trx.Tests.pdb
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\bin\Debug\log4net.dll
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\bin\Debug\nunit.framework.dll
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\bin\Debug\Trx.dll
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\bin\Debug\Trx.pdb
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\bin\Debug\Trx.xml
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\bin\Debug\es\Trx.resources.dll
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\obj\Debug\Trx.Tests.dll
+C:\Users\ijaramillo\Documents\Visual Studio 2005\Projects\Trx\Src\Tests\obj\Debug\Trx.Tests.pdb

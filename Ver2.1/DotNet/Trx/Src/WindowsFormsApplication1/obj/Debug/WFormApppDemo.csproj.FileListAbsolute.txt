@@ -1,0 +1,115 @@
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Debug\WFormApppDemo.csproj.GenerateResource.Cache
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.dll
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Debug\log4net.dll
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.pdb
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Debug\es\UC-CAJA.resources.dll
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe.config
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.pdb
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.Properties.Resources.resources
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.exe
+D:\TRABAJO\DESARROLLO\COMPONENTE ISO8583\FUENTE\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\2008\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\Nuevo Requerimiento Libreria serial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\Fuentes\Net\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\NRLibreriaserial\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.0\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.FrmAnulacion.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.FrmVoucher.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.Properties.Resources.resources
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WFormApppDemo.csproj.GenerateResource.Cache
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe.config
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.pdb
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.exe
+C:\Users\farmijos\Desktop\PinPad\2008\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.pdb
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe.config
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.exe
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.pdb
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.exe
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\AppDemo.pdb
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\UC-CAJA.pdb
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.FrmAnulacion.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.FrmVoucher.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\AppDemo.Properties.Resources.resources
+C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\WindowsFormsApplication1\obj\Debug\WFormApppDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+The examples Acquirer and Merchant are designed to work together. Merchant tries to connect to Acquirer and it begins to send messages.
+
+Acquirer, Server and Merchant2 are designed to work together too. Server tries to connect to Acquirer, Merchant2 tries to connect to Server and it begins to send messages; Server acts as a forwarder translating messages from Merchant2 to Acquirer and back. Server accepts up to 4 Merchant2 connections.
