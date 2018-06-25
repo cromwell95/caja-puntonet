@@ -82,3 +82,15 @@ C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debu
 C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\es\UC-CAJA.resources.dll
 C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.dll
 C:\Users\DesarrolloNet\Documents\Ver2.1\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.pdb
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.resources
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UCCAJA.SR.es.resources
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.csproj.GenerateResource.Cache
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.dll
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\UC-CAJA.pdb
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.dll
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\UC-CAJA.pdb
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\UCCAJA.xml
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\es\UC-CAJA.resources.dll
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\bin\Debug\log4net.dll
+C:\Users\DesarrolloNet\Documents\UC_CAJA\Ver2.1\DotNet\Trx\Src\framework\obj\Debug\es\UC-CAJA.resources.dll

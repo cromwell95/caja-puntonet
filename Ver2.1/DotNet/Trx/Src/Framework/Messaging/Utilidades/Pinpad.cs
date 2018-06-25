@@ -45,19 +45,47 @@ namespace Trx.Messaging.Utilidades
         public static string ErrorPAPD   = "ER  ERR. CONEXION PINPAD"; //Mensaje agregado para PA
         
         //Errores de timeout plan D - LABA 08/10/2015
-        public static string TimeOutCPPD = "TOTIME OUT            "; //Mensaje agregado para CP
-        public static string TimeOutCTPD = "TO                                                  TIME OUT            "; //Mensaje agregado para CT
-        public static string TimeOutLTPD = "TO00                                                                     TIME OUT            "; //Mensaje agregado para LT
-        public static string TimeOutPPPD = "TO    TIME OUT                                                                                                                                                                                                                                                                                                                                                                                                                                                                           "; //Mensaje agregado para PP
-        public static string TimeOutPCPD = "TO  TIME OUT            "; //Mensaje agregado para PC
-        public static string TimeOutPAPD = "TO  TIME OUT            "; //Mensaje agregado para PA
+        public static String TimeOutCPPD = "TOTIME OUT            "; //Mensaje agregado para CP
+        public static String TimeOutCTPD = "TO                                                  TIME OUT            "; //Mensaje agregado para CT
+        public static String TimeOutLTPD = "TO00                                                                     TIME OUT            "; //Mensaje agregado para LT
+        public static String TimeOutPPPD = "TO    TIME OUT                                                                                                                                                                                                                                                                                                                                                                                                                                                                           "; //Mensaje agregado para PP
+        public static String TimeOutPCPD = "TO  TIME OUT            "; //Mensaje agregado para PC
+        public static String TimeOutPAPD = "TO  TIME OUT            "; //Mensaje agregado para PA
 
         public static String ErrorBBPD = "ER  ERR. CONEXION PINPAD                                                                                                                                                                                                                                                                                      ";
-        public static String TimeOutBBPd = "TO  TIMEOUT                                                                                                                                                                                                                                                                                                   ";
-    
+        public static String TimeOutBBPD = "TO  TIMEOUT                                                                                                                                                                                                                                                                                                   ";
+        /*
+        public static String ErrorCPPD     = "ERERR. CONEXION PINPAD";
+        public static String TimeOutCPPD   = "TOTIME OUT            ";
+            
+        public static String ErrorCTSHA1   = "ER                                                  ERR. CONEXION PINPAD                           ";
+        public static String ErrorCTSHA2   = "ER                                                                          ERR. CONEXION PINPAD                           ";
+        public static String TimeOutCTSHA1 = "TO                                                  TIME OUT                                       ";
+        public static String TimeOutCTSHA2 = "TO                                                                          TIME OUT                                       ";
+            
+        public static String ErrorLTSHA1   = "ER                                                                       ERR. CONEXION PINPAD                           ";
+        public static String ErrorLTSHA2   = "ER                                                                                               ERR. CONEXION PINPAD                           ";
+        public static String TimeOutLTSHA1 = "TO                                                                       TIME OUT                                       ";
+        public static String TimeOutLTSHA2 = "TO                                                                                               TIME OUT                                       ";
+            
+        public static String ErrorPPSHA1   = "ER    ERR. CONEXION PINPAD                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ";
+        public static String ErrorPPSHA2   = "ER    ERR. CONEXION PINPAD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ";
+        public static String TimeOutPPSHA1 = "TO    TIME OUT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ";
+        public static String TimeOutPPSHA2 = "TO    TIME OUT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ";
+        */
+        public static String ErrorCBPD     = "ERERR. CONEXION PINPAD                                                                                                                                                                                                                                                                                                            ";
+        public static String TimeOutCB     = "TOTIME OUT                                                                                                                                                                                                                                                                                                                        ";
+        /*
+        public static String ErrorPC_SHA   = "ER  ERR. CONEXION PINPAD";
+        public static String TiemOutPC_SHA = "TO  TIME OUT            ";
+
+        public static String ErrorPA_SHA   = "ER  ERR. CONEXION PINPAD";
+        public static String TimeOutPA_SHA = "TO  TIME OUT            ";
+        */
 
         public static void XTA()
         {
+            //Cambios en las respuesta que recibe la caja para Plan D - LABA 08/10/2015
             ErrorCPPinpad = ErrorCPPD;
             ErrorCTPinpad = ErrorCTPD;
             ErrorLTPinpad = ErrorLTPD;
@@ -236,7 +264,7 @@ namespace Trx.Messaging.Utilidades
                             {
                                 byte[] mBufferSeg = Encoding.ASCII.GetBytes(tramaseguridaderror + LRCSeguridadError);
                                 Port.Write(mBufferSeg, 0, mBufferSeg.Length);
-                                if (iGrabaLog == 1) UTILIDADES.mensaje("DEBUG : " + "ERROR DE SEGURIDAD EN EL PINPID", "LogTracerCOM", "log");
+                                if (iGrabaLog == 1) UTILIDADES.mensaje("DEBUG : " + "ERROR DE SEGURIDAD EN EL PINPAD", "LogTracerCOM", "log");
                                 Respuesta = TipoTrx + "ER ERR.CONEXION PINPAD"; 
                                 Port.Close();
                                 return Respuesta;
@@ -392,6 +420,7 @@ namespace Trx.Messaging.Utilidades
         //Funcion que envia un archivo de bines al pos - Funcion DotNet para el envio de una trx
         public static string SendPinpad(string trama, int puerto, int timeout, string RutaBines, int iGrabaLog)
         {
+            if (iGrabaLog == 1) UTILIDADES.mensaje("SendPinpad v2", "LogTracerCOM", "log");
             XTA();
             char STX = (char)0x02;
             char ETX = (char)0x03;
@@ -586,7 +615,12 @@ namespace Trx.Messaging.Utilidades
                                 else
                                 if (TipoTrx.Equals("BB"))
                                 {
-                                    Respuesta = TipoTrx + TimeOutBBPd; //Agregado para BB laba
+                                    Respuesta = TipoTrx + TimeOutBBPD; //Agregado para BB laba
+                                }
+                                else
+                                    if (TipoTrx.Equals("CB"))
+                                {
+                                    Respuesta = TipoTrx + ErrorCBPD; //Agregado para CB SHA laba
                                 }
                                 else
                                 {
@@ -637,7 +671,12 @@ namespace Trx.Messaging.Utilidades
                                 else
                                 if (TipoTrx.Equals("BB"))
                                 {
-                                    return Respuesta = TipoTrx + TimeOutBBPd; //Agregado para BB laba
+                                    return Respuesta = TipoTrx + TimeOutBBPD; //Agregado para BB laba
+                                }
+                                else
+                                    if (TipoTrx.Equals("CB"))
+                                {
+                                    return Respuesta = TipoTrx + TimeOutCB; //Agregado para CB SHA laba
                                 }
                                 else
                                 {
@@ -686,6 +725,11 @@ namespace Trx.Messaging.Utilidades
                 if (TipoTrx.Equals("BB"))
                 {
                     return Respuesta = TipoTrx + ErrorBBPD; //Agregado para BB laba
+                }
+                else
+                    if (TipoTrx.Equals("CB"))
+                {
+                    return Respuesta = TipoTrx + ErrorCBPD; //Agregado para CB SHA laba
                 }
                 else
                 {
@@ -753,6 +797,8 @@ namespace Trx.Messaging.Utilidades
                 if (Port.IsOpen)
                 {
                     byte[] mBuffer = Encoding.ASCII.GetBytes(trama + LRC);
+                    //byte[] mBuffer = Encoding.UTF8.GetBytes(trama + LRC); //cambio para tarjetas UPI - 23022017
+
                     Port.Write(mBuffer, 0, mBuffer.Length);
 
                     if (iGrabaLog == 1) UTILIDADES.mensaje("DEBUG : " + "SendPinpad Autorizacion se envia trama al puerto " + iPuerto + " Trama=" + trama, "LogTracerCOM", "log");
@@ -765,7 +811,9 @@ namespace Trx.Messaging.Utilidades
                         byte[] buffer = new byte[Port.BytesToRead];
                         Port.Read(buffer, 0, buffer.Length);
                         Respuesta = System.Text.ASCIIEncoding.ASCII.GetString(buffer);
-
+                        
+                        //Respuesta = System.Text.UTF8Encoding.ASCII.GetString(buffer);//cambio para tarjetas UPI - 23022017
+                        
                         //Validacion del timeout
                         if (Timer > FinSeg)
                         {
@@ -802,7 +850,12 @@ namespace Trx.Messaging.Utilidades
                             else
                             if (TipoTrx.Equals("BB"))
                             {
-                                Respuesta = TipoTrx + TimeOutBBPd; //Agregado para BB laba
+                                Respuesta = TipoTrx + TimeOutBBPD; //Agregado para BB laba
+                            }
+                            else
+                                if (TipoTrx.Equals("CB"))
+                            {
+                                Respuesta = TipoTrx + TimeOutCB; //Agregado para CB SHA laba
                             }
                             else
                             {
@@ -840,8 +893,15 @@ namespace Trx.Messaging.Utilidades
                         ST = Respuesta.IndexOf(STX);
                         ET = Respuesta.IndexOf(ETX);
 
-
-                        if (ST == 0 && ET > 0)
+                        //Validacion que exista un ET en la trama de respuestar recibida para administracion con el ROSADO SUPER CINES
+                        if (ST == 0 && ET <= 0)
+                        {
+                            UTILIDADES.mensaje("DEBUG : " + "Trama de respuesta invalida, se envia respuesta a la caja y envio NACK. Se deja de leer el puerto", "LogTracerCOM", "log");
+                            Port.Write(NAK.ToString());
+                            Respuesta = TipoTrx + ErrorCnxPinpad;
+                            break;
+                        } 
+                        else if (ST == 0 && ET > 0)
                         {
                             if (iGrabaLog == 1) UTILIDADES.mensaje("DEBUG : " + "SendPinpad Autorizacion evaluo si la trama de respuesta es correcta calculo el LRC=" + Respuesta.Substring(ET + 1, 1), "LogTracerCOM", "log");
 
